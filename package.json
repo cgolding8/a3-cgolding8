@@ -5,10 +5,6 @@
   "author": "Cole Golding",
   "main": "app.js",
   "license": "ISC",
-	"scripts": {
-    "start": "node api/index.js",
-    "server": "nodemon api/index.js"
-  },
   "dependencies": {
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
